@@ -5,8 +5,7 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- 浙大郑耀被撤奖
--   链接1:  https://pan.baidu.com/s/16JA-B3g8NLopN9d9MUQ19A        提取码: ea4p      （pdf版本）
+- 
 <!---
 Landscape2022/Landscape2022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
